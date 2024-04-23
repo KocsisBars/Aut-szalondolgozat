@@ -1,0 +1,8 @@
+C:\Users\Diák\source\repos\AutoszalonKezeloRendszer\AutoszalonKezeloRendszer\bin\Debug\AutoszalonKezeloRendszer.exe.config
+C:\Users\Diák\source\repos\AutoszalonKezeloRendszer\AutoszalonKezeloRendszer\bin\Debug\AutoszalonKezeloRendszer.exe
+C:\Users\Diák\source\repos\AutoszalonKezeloRendszer\AutoszalonKezeloRendszer\bin\Debug\AutoszalonKezeloRendszer.pdb
+C:\Users\Diák\source\repos\AutoszalonKezeloRendszer\AutoszalonKezeloRendszer\obj\Debug\AutoszalonKezeloRendszer.csproj.AssemblyReference.cache
+C:\Users\Diák\source\repos\AutoszalonKezeloRendszer\AutoszalonKezeloRendszer\obj\Debug\AutoszalonKezeloRendszer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\source\repos\AutoszalonKezeloRendszer\AutoszalonKezeloRendszer\obj\Debug\AutoszalonKezeloRendszer.csproj.CoreCompileInputs.cache
+C:\Users\Diák\source\repos\AutoszalonKezeloRendszer\AutoszalonKezeloRendszer\obj\Debug\AutoszalonKezeloRendszer.exe
+C:\Users\Diák\source\repos\AutoszalonKezeloRendszer\AutoszalonKezeloRendszer\obj\Debug\AutoszalonKezeloRendszer.pdb
